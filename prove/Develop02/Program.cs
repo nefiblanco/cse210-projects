@@ -53,11 +53,10 @@ class Program
             "How did I see the hand of the Lord in my life today?",
             "What was the strongest emotion I felt today?",
             "If I had one thing I could do over today, what would it be?",
-            "What scripture did I read today?",
-            "What changes can I make to become a better person?",
-            "Did I do something good for someone else?",
-            "Did I help out at home today?",
-            "What is my goal for tomorrow?",
+            "What impacted you from the scriptures today?",
+            "What changes can I make to be a real disciple of Jesus Christ?",
+            "What was my good work from the day?",
+            "What can I do beeter tomorrow?",
         };
         Random random = new Random();
         int index = random.Next(prompts.Count);
